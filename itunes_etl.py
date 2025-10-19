@@ -17,8 +17,20 @@ def extract(artist_name):
         print("Error! Something went wrong: " + str(response.status_code))
         return None
 
-def transform():
-    pass
+def transform(df):
+    df = df[["artistName", "trackName", "collectionName", "primaryGenreName", "releaseDate", "trackPrice", "collectionPrice", "currency", "trackExplicitness", "isStreamable"]]
+
+    df = df.rename(columns={
+        "collectionName": "album",
+        "collectionPrice": "album_price",
+        "trackPrice": "song_price",
+        "trackName": "song_title",
+        "trackExplicitness": "explicit",
+        "primaryGenreName": "genre"
+    })
+
+    return df
+
 
 def load():
     pass
