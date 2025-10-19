@@ -13,7 +13,7 @@ def extract(artist_name):
     """Extract 100 songs using an artist's name from the iTunes API
     Returns the results as a DataFrame."""
 
-    url = f"https://itunes.apple.com/search?term={artist_name}&entity=song"
+    url = f"https://itunes.apple.com/search?term={artist_name}&entity=song&limit=100"
 
     response = requests.get(url)
     if response.status_code == 200:

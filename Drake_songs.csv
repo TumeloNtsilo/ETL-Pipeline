@@ -1,0 +1,49 @@
+,artistName,song_title,album,genre,releaseDate,song_price,album_price,currency,explicit,isStreamable
+0,Drake,In My Feelings,Scorpion,Hip-Hop/Rap,2018-06-29T12:00:00Z,1.29,12.99,USD,cleaned,True
+1,Drake,Hotline Bling,Views,Hip-Hop/Rap,2015-07-31T12:00:00Z,1.29,11.99,USD,notExplicit,True
+2,Romeo Santos,Odio (feat. Drake),"Fórmula, Vol. 2 (Deluxe Edition)",Música tropical,2014-01-27T08:00:00Z,1.29,13.99,USD,notExplicit,True
+3,PARTYNEXTDOOR,LOYAL (feat. Drake),PARTYMOBILE,R&B/Soul,2019-11-21T12:00:00Z,1.29,10.99,USD,notExplicit,True
+4,Drake,"Hold On, We're Going Home (feat. Majid Jordan)",Nothing Was the Same (Deluxe),Hip-Hop/Rap,2013-08-07T07:00:00Z,1.29,11.99,USD,notExplicit,True
+5,Drake & Michael Jackson,Don’t Matter To Me,Scorpion,Hip-Hop/Rap,2018-06-29T12:00:00Z,1.29,12.99,USD,notExplicit,True
+6,Still Woozy,Drake,"If This Isn’t Nice, I Don’t Know What Is",Pop,2021-08-13T12:00:00Z,1.29,9.99,USD,notExplicit,True
+7,Drake,One Dance (feat. Wizkid & Kyla),Views,Hip-Hop/Rap,2016-04-05T12:00:00Z,1.29,11.99,USD,notExplicit,True
+8,Bad Bunny,MÍA (feat. Drake),X 100PRE,Urbano latino,2018-10-11T12:00:00Z,1.29,12.99,USD,notExplicit,True
+9,Drake,Hotline Bling,Views,Hip-Hop/Rap,2015-07-31T12:00:00Z,1.29,11.99,USD,notExplicit,True
+10,Still Woozy,Drake,"If This Isn’t Nice, I Don’t Know What Is",Pop,2021-08-13T12:00:00Z,1.29,9.99,USD,notExplicit,True
+11,Drake,Finesse,Scorpion,Hip-Hop/Rap,2018-06-29T12:00:00Z,1.29,12.99,USD,notExplicit,True
+12,Alicia Keys,Un-thinkable (I'm Ready) [Remix] {feat. Drake},Un-thinkable (I'm Ready) [Remix] {feat. Drake} - Single,R&B/Soul,2010-05-28T07:00:00Z,1.29,1.29,USD,notExplicit,True
+13,Drake,One Dance (feat. Wizkid & Kyla),Views,Hip-Hop/Rap,2016-04-05T12:00:00Z,1.29,11.99,USD,notExplicit,True
+14,Bad Bunny,MIA (feat. Drake),MIA (feat. Drake) - Single,Latin,2018-10-11T12:00:00Z,1.29,1.29,USD,notExplicit,True
+15,Mary J. Blige,Mr. Wrong (feat. Drake),My Life II...The Journey Continues (Act 1) [Deluxe],R&B/Soul,2011-11-21T08:00:00Z,1.29,12.99,USD,notExplicit,True
+16,Drake,Blem,More Life,Hip-Hop/Rap,2017-03-18T12:00:00Z,1.29,11.99,USD,notExplicit,True
+17,Bryson Tiller,Outta Time (feat. Drake),A N N I V E R S A R Y,R&B/Soul,2020-10-02T12:00:00Z,1.29,9.99,USD,notExplicit,True
+18,Drake,Signs,Signs - Single,Hip-Hop/Rap,2017-06-23T12:00:00Z,1.29,1.29,USD,notExplicit,True
+19,Drake,Find Your Love,Thank Me Later,Hip-Hop/Rap,2010-05-05T07:00:00Z,1.29,9.99,USD,notExplicit,True
+20,Drake,Summer Games,Scorpion,Hip-Hop/Rap,2018-06-29T12:00:00Z,1.29,12.99,USD,notExplicit,True
+21,J. Cole,In the Morning (feat. Drake),Cole World: The Sideline Story,Hip-Hop/Rap,2011-09-27T12:00:00Z,1.29,10.99,USD,notExplicit,True
+22,Popcaan,TWIST & TURN (feat. Drake & PARTYNEXTDOOR),FIXTAPE,Reggae,2020-08-07T12:00:00Z,1.29,11.99,USD,notExplicit,True
+23,Drake,Find Your Love,Thank Me Later,Hip-Hop/Rap,2010-05-05T12:00:00Z,1.29,9.99,USD,notExplicit,True
+24,Drake,4422 (feat. Sampha),More Life,Hip-Hop/Rap,2017-03-18T12:00:00Z,1.29,11.99,USD,notExplicit,True
+25,Meek Mill,Going Bad (feat. Drake),Championships,Hip-Hop/Rap,2018-11-30T12:00:00Z,1.29,13.99,USD,cleaned,True
+26,PARTYNEXTDOOR,LOYAL (feat. Drake),PARTYMOBILE (Chopped Not Slopped),R&B/Soul,2019-11-21T08:00:00Z,1.29,11.99,USD,notExplicit,True
+27,Drake,Massive,"Honestly, Nevermind",Dance,2022-06-17T12:00:00Z,1.29,9.99,USD,notExplicit,True
+28,Drake,Since Way Back (feat. PARTYNEXTDOOR),More Life,Hip-Hop/Rap,2017-03-18T12:00:00Z,1.29,11.99,USD,notExplicit,True
+29,Drake,Flight's Booked,"Honestly, Nevermind",Dance,2022-06-17T12:00:00Z,1.29,9.99,USD,notExplicit,True
+30,Drake,God's Plan,Scorpion,Hip-Hop/Rap,2018-01-19T08:00:00Z,1.29,12.99,USD,cleaned,True
+31,Drake,Texts Go Green,"Honestly, Nevermind",Dance,2022-06-17T12:00:00Z,1.29,9.99,USD,notExplicit,True
+32,Bart Baker,Drake,Drake - Single,Pop,2016-11-03T12:00:00Z,1.29,1.29,USD,notExplicit,True
+33,Drake,I Get Lonely,Care Package,Hip-Hop/Rap,2010-10-05T07:00:00Z,1.29,9.99,USD,notExplicit,True
+34,Swae Lee,Won't Be Late (feat. Drake),Won't Be Late (feat. Drake) - Single,Hip-Hop/Rap,2019-08-16T12:00:00Z,1.29,1.29,USD,notExplicit,True
+35,Drake,Madiba Riddim,More Life,Hip-Hop/Rap,2017-03-18T12:00:00Z,1.29,11.99,USD,notExplicit,True
+36,Bryson Tiller,Outta Time (feat. Drake),A N N I V E R S A R Y (Deluxe),R&B/Soul,2020-10-02T07:00:00Z,1.29,12.99,USD,notExplicit,True
+37,Drake,Nonstop,Scorpion,Hip-Hop/Rap,2018-06-29T12:00:00Z,1.29,12.99,USD,cleaned,True
+38,Drake,Nothings Into Somethings,More Life,Hip-Hop/Rap,2017-03-18T12:00:00Z,1.29,11.99,USD,notExplicit,True
+39,Justin Bieber,Right Here (feat. Drake),Believe (Deluxe Edition),Pop,2012-06-15T12:00:00Z,1.29,11.99,USD,notExplicit,True
+40,Drake,Nice For What,Scorpion,Hip-Hop/Rap,2018-04-06T07:00:00Z,1.29,12.99,USD,cleaned,True
+41,Future,WAIT FOR U (feat. Drake & Tems),I NEVER LIKED YOU,Hip-Hop/Rap,2022-04-29T07:00:00Z,1.29,9.99,USD,cleaned,True
+42,Drake,Wants and Needs (feat. Lil Baby),Scary Hours 2,Hip-Hop/Rap,2021-03-05T12:00:00Z,1.29,3.87,USD,cleaned,True
+43,Drake,One Dance (feat. Wizkid & Kyla),One Dance (feat. Wizkid & Kyla) - Single,Hip-Hop/Rap,2016-04-05T12:00:00Z,1.29,1.29,USD,notExplicit,True
+44,Drake,Since Way Back (feat. PARTYNEXTDOOR),More Life,Hip-Hop/Rap,2017-03-18T12:00:00Z,1.29,11.99,USD,notExplicit,True
+45,Drake,Falling Back,"Honestly, Nevermind",Dance,2022-06-17T12:00:00Z,1.29,9.99,USD,notExplicit,True
+46,Stunna 4 Vegas,Drake,Welcome To 4 Vegas,Hip-Hop/Rap,2020-11-27T12:00:00Z,1.29,7.99,USD,cleaned,True
+47,The Streets,Drake (Instrumental),"40 Hip Hop/R&B Instrumentals 2014, Vol. 1",R&B/Soul,2014-11-18T12:00:00Z,0.99,9.99,USD,notExplicit,True
