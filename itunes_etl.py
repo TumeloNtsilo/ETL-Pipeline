@@ -24,7 +24,7 @@ def extract(artist_name):
 
         return df
     else:
-        print("Error! Something went wrong: " + str(response.status_code))
+        print(f"Error {str(response.status_code)}! Something went wrong: ")
         return None
 
 def transform(df):
